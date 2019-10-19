@@ -1,0 +1,7 @@
+/.vscode
+/*/.ipynb_checkpoints/
+/*/data/
+/*/layers/
+/*/Training_SSD/
+/*/*.pth
+/*/__pycache__/
